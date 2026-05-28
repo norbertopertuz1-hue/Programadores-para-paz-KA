@@ -1,0 +1,8 @@
+1. Ruta: http://localhost:3000
+Al ingresar esta dirección en el navegador, se muestra la respuesta asociada a la ruta raíz del servidor. Por lo general, aparece un mensaje de bienvenida o un aviso indicando que el servidor está funcionando correctamente y escuchando en el puerto 3000.
+
+2. Ruta: http://localhost:3000/saludo
+Al acceder a esta ruta, el servidor responde con un mensaje específico programado para esta dirección, por ejemplo: "¡Hola! Bienvenido a esta sección", o cualquier texto que se haya definido en el código para la ruta /saludo.
+
+3. Ruta: http://localhost:3000/mensaje/juan
+Esta ruta incluye un parámetro dinámico. El servidor reconoce que "juan" es el valor enviado y lo inserta dentro de la respuesta. Por ejemplo, se verá algo como: "¡Hola juan! Este es tu mensaje personalizado", donde el nombre cambia según lo que escribamos en la dirección.
