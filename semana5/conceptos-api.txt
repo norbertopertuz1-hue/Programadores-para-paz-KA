@@ -1,0 +1,11 @@
+¿Qué hace esta ruta?
+ 
+Se trata de la ruta  POST /reporte . A diferencia de las rutas que solo piden información, esta ruta está diseñada para recibir y procesar datos que se envían desde el cliente hacia el servidor. Cuando se accede a ella, el servidor recibe la información que se ha enviado, la procesa, la guarda o la gestiona según lo programado, y devuelve una respuesta confirmando que los datos fueron recibidos correctamente o indicando si hubo algún error.
+ 
+Para qué podría servir en una aplicación comunitaria
+ 
+En una aplicación orientada a una comunidad, esta ruta es muy útil para recibir información importante de los vecinos o usuarios. Por ejemplo, sirve para que las personas envíen reportes sobre problemas locales como fallas en el alumbrado público, daños en vías, basura acumulada o situaciones que requieran atención de las autoridades. Los datos que se envían, como descripciones, ubicación o imágenes, se guardan en el sistema para que las autoridades o responsables puedan revisarlos, darles seguimiento y resolver los problemas. De esta forma, se facilita la participación ciudadana y se mejora la comunicación entre la comunidad y quienes se encargan de gestionar los asuntos públicos.
+ 
+Nota adicional
+ 
+La ruta de tipo  POST  no se puede probar escribiendo su dirección directamente en el navegador, ya que este método solo sirve para pedir información. Para probarla correctamente se necesita enviar datos, lo cual se puede hacer con herramientas como Thunder Client, Postman o mediante código en JavaScript que envíe la información necesaria al servidor.
