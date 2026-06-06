@@ -1,0 +1,5 @@
+1. No exponer datos personales de los ciudadanos en espacios públicos de la plataforma.
+2. Proteger las credenciales de acceso y usar métodos de autenticación seguros.
+3. Utilizar siempre conexiones seguras (HTTPS) para que la información viaje cifrada.
+4. Registrar y monitorear los accesos y actividades para detectar movimientos extraños.
+5. Limitar el acceso a información sensible solo a personas autorizadas y responsables.

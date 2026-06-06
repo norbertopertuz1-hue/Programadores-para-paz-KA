@@ -1,0 +1,3 @@
+1. Proteger contraseñas: usar combinaciones seguras y diferentes para cada servicio.
+2. No compartir credenciales de acceso con nadie.
+3. Mantener el sistema operativo y las aplicaciones siempre actualizadas.
