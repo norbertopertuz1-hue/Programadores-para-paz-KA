@@ -1,0 +1,17 @@
+prueba-reportes.txt{
+  "tipo": "Infraestructura",
+  "descripcion": "Daño en alumbrado público"
+}
+{
+  "mensaje": "Reporte registrado",
+  "reporte": {
+    "id": 1,
+    "tipo": "Infraestructura",
+    "descripcion": "Daño en alumbrado público"
+  }
+}
+
+
+  "tipo": "Ambiente",
+  "descripcion": "Acumulación de residuos en una zona comunitaria"
+}

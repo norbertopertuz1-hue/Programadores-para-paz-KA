@@ -1,0 +1,12 @@
+Ejemplo 1:
+{
+  "tipo": "Infraestructura vial",
+  "descripcion": "Existe un hueco grande en la calle principal que está causando daños a los vehículos."
+}
+
+Ejemplo 2:
+{
+  "tipo": "Seguridad ciudadana",
+  "descripcion": "Se solicita mayor vigilancia en el parque del barrio porque se han presentado robos."
+}
+
