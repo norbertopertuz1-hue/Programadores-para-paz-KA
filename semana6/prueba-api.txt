@@ -1,0 +1,9 @@
+{
+  "nombre": "Maria",
+  "mensaje": "Hola comunidad"
+}
+{
+  "estado": "Datos recibidos",
+  "nombre": "Maria",
+  "mensaje": "Hola comunidad"
+}

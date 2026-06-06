@@ -1,0 +1,9 @@
+{
+  "tipo": "Vías públicas",
+  "descripcion": "Hay un bache grande en la calle principal que dificulta el paso de vehículos y peatones."
+}
+{
+  "mensaje": "Incidencia registrada",
+  "tipo": "Vías públicas",
+  "descripcion": "Hay un bache grande en la calle principal que dificulta el paso de vehículos y peatones."
+}
