@@ -1,0 +1,9 @@
+Sistema operativo: Es la base que gestiona los recursos del equipo, administra memoria, procesador y conexiones de red, permitiendo que el servidor funcione.
+
+Node.js: Es el entorno que permite ejecutar código JavaScript en el lado del servidor, facilitando la creación de aplicaciones rápidas y escalables.
+
+Aplicación server.js: Es el programa que define las rutas, respuestas y reglas de funcionamiento específico de nuestro servicio web.
+
+Puerto: Es un punto de acceso numérico que identifica el servicio dentro del equipo, permitiendo distinguirlo de otros programas que usen la red.
+
+Logs: Son registros que guardan la actividad, errores y solicitudes recibidas; sirven para monitorear el rendimiento y solucionar fallas rápidamente.

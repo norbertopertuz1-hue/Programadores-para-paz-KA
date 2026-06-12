@@ -1,0 +1,5 @@
+Que las plataformas comunitarias funcionen de forma estable y segura es fundamental para generar confianza en los usuarios. Si el servidor falla frecuentemente, se interrumpe el acceso a la información y se pierde la continuidad de las actividades.
+
+Además, la estabilidad protege los datos compartidos por la comunidad, evitando pérdidas o modificaciones indebidas. Un servicio seguro reduce riesgos de accesos no autorizados o ataques externos.
+
+También garantiza que todos puedan participar en igualdad de condiciones, sin interrupciones en momentos clave. En definitiva, un servidor confiable asegura que la plataforma cumpla su propósito de servir como espacio de colaboración y comunicación.
