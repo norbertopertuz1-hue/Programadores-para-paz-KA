@@ -1,0 +1,4 @@
+Las metodologías ágiles ayudan a organizar el trabajo dividiéndolo en pasos pequeños y claros, permitiendo adaptarse rápido a lo que la comunidad necesite de verdad. Con el backlog y las historias de usuario nos aseguramos de trabajar primero en lo que es más importante para todos.
+
+Por su parte, la automatización evita tareas repetitivas como escribir avisos o revisar si hay nuevos reportes, ahorrando tiempo que podemos dedicar a acompañar mejor a los vecinos. Y canales como Telegram son muy útiles porque casi todos lo usan, permiten enviar avisos de forma rápida y mantener a todos informados sin complicaciones. Juntas estas herramientas hacen que la participación sea más sencilla, transparente y que nadie se quede sin saber qué se está haciendo.
+

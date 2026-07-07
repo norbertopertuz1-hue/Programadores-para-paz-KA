@@ -1,0 +1,9 @@
+¿Qué evento activa el flujo?
+→ Cuando se registra un nuevo reporte o incidencia en el sistema.
+
+¿Qué mensaje se enviaría a Telegram?
+→ " Nuevo reporte recibido en el sistema de veeduría. Por favor revisa la plataforma para conocer los detalles."
+
+¿Qué información no debería enviarse por seguridad?
+→ No se debe compartir: nombres completos, números de documento de identidad, direcciones exactas, teléfonos, contraseñas ni cualquier otro dato sensible o personal.
+

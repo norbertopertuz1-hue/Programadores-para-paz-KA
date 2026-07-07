@@ -1,0 +1,5 @@
+1. Como ciudadano quiero registrar una incidencia comunitaria para dejar constancia de problemas en el barrio.
+2. Como coordinador quiero recibir una notificación automática para atender los reportes lo más rápido posible.
+3. Como vecino quiero ver el estado de mi reporte para saber si está siendo atendido.
+4. Como miembro de la veeduría quiero generar un listado de casos para presentar avances a la comunidad.
+

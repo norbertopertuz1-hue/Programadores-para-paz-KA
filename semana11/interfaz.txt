@@ -1,0 +1,2 @@
+La interfaz tendría primero una vista principal con todas las causas comunitarias disponibles, mostrando su título, breve descripción y fecha. Contará con un formulario sencillo para crear una nueva causa, donde se ingrese el título, descripción y ubicación. Cada causa tendrá un botón visible para apoyarla, y al lado un contador que muestre cuántas personas ya lo han hecho. El diseño será claro, con letras legibles y sin elementos innecesarios, para que cualquier vecino pueda usarla sin complicaciones.
+

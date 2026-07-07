@@ -1,0 +1,21 @@
+Entidad: ReporteComunitario
+Campos principales:
+- id (identificador único)
+- titulo
+- descripcion
+- ubicacion
+- fecha_registro
+- estado
+
+Propósito: Guardar los reportes de problemas o necesidades que presentan los vecinos del barrio.
+
+Entidad: Usuario
+Campos principales:
+- id
+- nombre_usuario
+- correo
+- rol (vecino, coordinador)
+- fecha_registro
+
+Propósito: Registrar las personas que usan la plataforma, diferenciando su tipo de participación para gestionar accesos.
+
