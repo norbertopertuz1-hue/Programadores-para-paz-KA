@@ -1,0 +1,7 @@
+1. Una persona de la comunidad ingresa al sistema y registra una nueva causa con su título y descripción.
+2. El sistema guarda la información de la causa en la base de datos y le asigna un identificador único.
+3. Otras personas acceden a la causa y confirman su apoyo con un solo clic.
+4. El sistema actualiza el contador de apoyos vinculados a esa causa en tiempo real.
+5. Cuando la causa alcanza el número mínimo de apoyos requerido, el sistema elabora automáticamente el documento de la petición en formato PDF.
+6. El usuario puede descargar el documento para presentarlo ante las autoridades correspondientes.
+

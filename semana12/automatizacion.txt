@@ -1,0 +1,5 @@
+Automatización con Telegram:
+- Evento que lo activa: Se registra un nuevo apoyo a una causa que tiene menos de 50 respaldos.
+- Mensaje que se envía al grupo de administradores: "La causa [título de la causa] acaba de recibir un nuevo apoyo. Ya cuenta con [número total] respaldos en total."
+- Información que NO se debe enviar por seguridad: Documentos de identidad, números de teléfono, direcciones de residencia, correos electrónicos completos o cualquier otro dato personal sensible.
+
